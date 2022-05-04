@@ -39,22 +39,19 @@ This file is translation English.
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Active` | Indonesian translation of Al-Quran | No |
-| New KBBI API | btrianurdin | [Link](https://github.com/btrianurdin/new-kbbi-api) | `Aktif` | KBBI API included word, class of word and meaning of the word | No |
+|
 
 ### Courier
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `Active` | Check receipt from [JNE], [SiCepat], [Wahana], etc. | `apiKey` |
-| Paket ID | paket.id | [Link](http://docs.paket.id/API/Versi_2.html) | `Active` | Courier API | `apiKey` |
-| Raja Ongkir | Rajaongkir | [Link](http://rajaongkir.com/dokumentasi) | `Active` | Check delivery cost using courier [JNE], [POS], [TIKI], etc. | `apiKey` |
-| J&T | J&T Official | [Link](https://developer.jet.co.id/documentation) | `Aktif` | J&T offcial API to access AWB, Order Tracking, Check Rates, and Order Cancellation. | `apiKey` |
 
 ### Daily Life
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Active` | Get random short stories from cerpenmu.com  | No |
+| Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Non-Active` | Get random short stories from cerpenmu.com  | No |
 
 ### E-Commerce
 
@@ -74,28 +71,17 @@ This file is translation English.
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Active` | List of Indonesian films with a record of API configuration set to Indonesia | `apiKey` |
-| Tanggal Lahiran Pasaran Zodiak | iBachor | [Link](https://github.com/bachors/apiapi#tanggal-lahiran-pasaran-zodiak) | `Active` | Zodiac checker | No |
-
-### Event
-
-| API Name        | Developer | URL | Status  | Description | `Auth` |
-| --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Ayo Donor PMI | iBachor | [Link](https://github.com/bachors/apiapi#ayo-donor-pmi) | `Active` | Blood donor events PMI | No |
 
 ### Financial
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-| Bisatopup | Bisatopup | [Link](http://docs.bisatopup.apiary.io/) | `Active` | Buy electric token, etc. | `apiKey` |
 | Doku | Doku | [Link](https://www.doku.com/API/index.html) | `Active` | DOKU Payment API to integrate with your system. | `apiKey` |
 | ESPAY | ESPAY | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php) | `Active` | Payment Gateway Indonesia | `apiKey` |
 | iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Active` | Payment Gateway | `apiKey` |
-| Jurnal API | jurnal.id | [Link](https://api-jurnal.api-docs.io/v1/getting-started/introduction) | `Active` | Financial Report API | `Oauth` / `apiKey` |
 | Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Active` | Payment Gateway | `apiKey` |
 | OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Active` | Un-Official ovo.id API Wrapper built with PHP | `OTP` |
 | OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Active` | An API that provides list of legal and ilegal investment products in Indonesia. Taken directly from OJK | No |
-| Xendit API | Xendit Official | [Link](https://developers.xendit.co/) | `Active` | Xendit official API to integrate your own application with Xendit Payment Gateway | `apiKey`
-| Tripay API | Tripay | [Link](https://tripay.co.id/developer?tab=prolog) | `Active` | API payment Gateway which is divided into 2 types, namely Open Payment & Closed Payment. so it can be integrated with your application with Tripay payment Gateway | `apiKey` |
 
 ### Forum
 
@@ -117,7 +103,6 @@ This file is translation English.
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Data Covid-19 di Indonesia ter update | Pemerintah Indonesia | [Link](https://data.covid19.go.id/public/api/update.json) | `Active` | API to get the latest COVID-19 case statistics - Official from Indonesian Government | No |
 | Data Covid-19 di Indonesia per provinsi | Pemerintah Indonesia | [Link](https://data.covid19.go.id/public/api/prov.json) | `Active` | API to get the latest COVID-19 case statistics per province | No |
-| Data COVID-19 di Indonesia | Reynadi | [Link](https://apicovid19indonesia-v2.vercel.app/) | `Active` | API to view COIVD-19 data in Indonesia | No |
 | Data Covid-19 | Teguh Aprianto | [Link](https://kawalcorona.com/api/) | `Active` | API to monitor areas affected by the covid-19 | No |
 
 
@@ -169,7 +154,6 @@ This file is translation English.
 
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
-#### Your Country
 | Api Raz | Razkode | [Link](https://yourlink) | `Active` | Lorem Ipsum Dolor Sir Amet | No |
 
 
