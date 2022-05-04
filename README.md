@@ -1,8 +1,8 @@
-[![GitHub forks](https://img.shields.io/github/forks/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/farizdotid/DAFTAR-API-LOKAL-INDONESIA?style=social)](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Razkode/REKOMENDASI-DAFTAR-API-RAZKODE-ID?style=social)](https://github.com/Razkode/REKOMENDASI-DAFTAR-API-RAZKODE-ID/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/Razkode/REKOMENDASI-DAFTAR-API-RAZKODE-ID?style=social)](https://github.com/Razkode/REKOMENDASI-DAFTAR-API-RAZKODE-ID/stargazers)
 
 # Daftar API Lokal Indonesia
 
-Berisi API tentang Data Indonesia.
+Berisi API Rekomendasi Dari RazKode
 
 # Daftar dalam bahasa lain
 
@@ -35,7 +35,7 @@ Berisi API tentang Data Indonesia.
     - [Sertifikasi](#sertifikasi)
     - [Utilitas](#utilitas)
   - [Kontak](#kontak)
-  - [:fire: TERIMAKASIH :fire:](#fire-terimakasih-fire)
+  - [:fire: RazKode :fire:](#fire-terimakasih-fire)
 - [Lisensi](#lisensi)
 
 ## Daftar API
@@ -287,16 +287,7 @@ Berisi API tentang Data Indonesia.
 | Xteam API | xteam | [Link](https://xteam.xyz) | `Aktif` | API Collection | Tidak |
 | Nurutomo | Nurutomo | [Link](https://nurutomo.herokuapp.com) | `Aktif` | Screenshot website | Tidak |
 | SMSNotif | PT Solusi Inovasi Bisnis | [Link](https://www.smsnotif.id) | `Aktif` | Kirim sms melalui REST API atau Laravel Notification | `apiKey` |
-| Viko API | VikoDK | [Link](https://viko-api.herokuapp.com/) | `Aktif` | Rest API gratis hasil scrape & tembak | apikey |
-| Hadi API | m hadi firmansya | [Link](https://hadi-api.herokuapp.com/api) | `Aktif` | Hasil Scrape Website | Tidak |
 | Sentiment Classification API | ramnaufal | [Link](https://ramnaufal.herokuapp.com/#/Sentiment/post_sentiment_single) | `Aktif` | Mengklasifikasikan sentiment sebuah kalimat | Tidak |
-| Free API | Helix x 4DSec | [Link](https://tools.helixs.id/home/?API) | `Aktif` | Kumpulan Free API tanpa Limit | Tidak |
-| XCoders API | Farhannn | [Link](https://api-xcoders.xyz) | `Aktif` | Kumpulan API Scrape Result | `Apikey` |
-| RNS API | Rey | [Link](https://api.sekha.tech) | `Aktif` | Api collection and free | `Apikey` |
-| LK API | Loli killers | [Lk](https://api.loli.loveslife.biz) | `Aktif` | Free rest api | `Apikey` |
-| MyFileArchive API | MyFIleArchive | [Link](https://restapi.myfilearchive.cloud) | `Aktif` | Api Collection | `Apikey` |
-| Raku API | Nathan | [Link](https://webraku.xyz) | `Aktif` | Kumpulan API Gratis & Hiburan Semata Hasil Module & Scrape | apikey |
-| ZENZ API | Zhwzein | [Link](https://zenzapi.xyz/dashboard) | `Aktif` | Sebuah Rest API Gratis hasil scrape website | `Apikey` |
 | Zoom API | Rasi Tech | [Link](http://anonyzoom.herokuapp.com/) | `Aktif` | REST API membuat link Zoom otomatis. Parameter pass (Custom Pass), Parameter Format bisa kosong atau isi dengan txt. | `Tidak` |
 | Avamini API | yogibagus | [Link](https://avamini.decko.my.id/) | `Aktif` | API untuk generate secara dinamis gambar avatar | Tidak |
 | AKUARI API | akuari | [Link](https://api.akuari.my.id/) | `Aktif` | REST API Gratis untuk kebutuhan anda / bot json |
@@ -313,17 +304,20 @@ Berisi API tentang Data Indonesia.
 
 ## Kontak
 
-Jika ada yang ingin ditambahkan atau dikoreksi bisa PM ke Facebook saya [Fariz Ramadhan](https://www.facebook.com/farizdotid) ya! ATAU berkomentar via fitur [Issues](https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
+Jika ada yang ingin ditambahkan atau dikoreksi bisa berkomentar via fitur [Issues](https://github.com/Razkode/REKOMENDASI-DAFTAR-API-RAZKODE-ID/issues) ATAU langsung edit saja nanti biar didiskusikan terlebih dahulu.
 
 Hatur Nuhun. :)
 
-## :fire: TERIMAKASIH :fire:
+## :fire: RazKode :fire:
 
 Terimakasih untuk kalian yang udah ikut ber-kontribusi! :heart:
 
 # Lisensi
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+# Template By
+https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
 
 [JNE]: http://www.jne.co.id/
 [Kaskus]: https://www.kaskus.co.id
