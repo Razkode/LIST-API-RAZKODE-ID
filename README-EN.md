@@ -147,7 +147,7 @@ This file is translation English.
 | API Name        | Developer | URL | Status  | Description | `Auth` |
 | --------------- |:---------:|:---:|:-------:|:----------|:------:|
 | Screenshot API | statically.io | [Link](https://statically.io/) | `Active` | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | No |
-
+| Gdrive Player API | gdriveplayer.us | [Link](http://api.gdriveplayer.us/) | `Active` | GdrivePlayer is a free website to get google drive streaming link and from many websites including google drive, youtube, facebook, etc. | No |
 
 ## HOW TO ADD NEW API LIST
 ### Category
