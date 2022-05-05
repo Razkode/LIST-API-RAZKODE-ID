@@ -29,8 +29,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/Razkode/LIST-API-RAZKODE-ID">
+    <img src="https://i.ibb.co/1zXTQtt/Group-5ko-2.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -89,142 +89,174 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+[![GitHub forks](https://img.shields.io/github/forks/Razkode/LIST-API-RAZKODE-ID?style=social)](https://github.com/Razkode/LIST-API-RAZKODE-ID/network) &nbsp;&nbsp; [![GitHub stars](https://img.shields.io/github/stars/Razkode/LIST-API-RAZKODE-ID?style=social)](https://github.com/Razkode/LIST-API-RAZKODE-ID/stargazers)
 
-### Built With
+# List of API Sharing
 
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+This repository have list of API Open Source All Country Version.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+This file is translation English.
+
+## Table of Content
+
+- [List of API Sharing](#list-of-api-sharing)
+  - [Table of Content](#table-of-content)
+  - [API List](#api-list)
+    - [Book](#book)
+    - [Courier](#courier)
+    - [Daily Life](#daily-life)
+    - [E-Commerce](#e-commerce)
+    - [Entertainment](#entertainment)
+    - [Event](#event)
+    - [Financial](#financial)
+    - [Forum](#forum)
+    - [Government](#government)
+    - [Health](#health)
+    - [Location](#location)
+    - [Music](#music)
+    - [News](#news)
+    - [Prediction](#prediction)
+    - [Certification](#certification)
+    - [Social Media](#social-media)
+    - [Utility](#utility)
+    - [Voluntary](#voluntary)
+  - [Contact](#contact)
+  - [License](#license)
+
+## API List
+
+### Book
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Alquran ID | bachors | [Link](https://github.com/bachors/Al-Quran-ID-API) | `Active` | Indonesian translation of Al-Quran | No |
+|
+
+### Courier
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Cek Resi | Wahid | [Link](http://wahidganteng.ga/api/cek-resi) | `Active` | Check receipt from [JNE], [SiCepat], [Wahana], etc. | `apiKey` |
+
+### Daily Life
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Cerpenmu.com API| Abdul Muttaqin | [Link](https://fdci.se/cerpenmu-com-api-random-cerpen/) | `Non-Active` | Get random short stories from cerpenmu.com  | No |
+
+### E-Commerce
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Elevenia.co.id API | Elevenia.co.id Dev | [Link](hhttp://soffice.elevenia.co.id/jsp/openapi/in/docs/ProductAPI_latest.pdf) | `Active` | AAPI for integrate your system into Elevenia | `apiKey` |
+| JD.id API | JD.id Dev | [Link](https://api.jd.id/home) | `Active` | API for integrate your system into JD.id| `apiKey` |
+| Matahari Mall API for Seller | Matahari Mall Dev | [Link](http://docs.apiforseller.apiary.io) | `Active` | Matahari Mall API for Seller | `apiKey` |
+| Tiket.com API | Tiket.com Dev | [Link](http://docs.tiket.com/) | `Active` | Selling train ticket, etc. | `apiKey` |
+| Tiketux.com API | Tiketux.com Dev | [Link] (https://developer.tiketux.com/) | 'Active' | API for transactions on tiketux.com which is a travel ticket sales site. | `apiKey` |
+| Tokopedia.com API | Tokopedia.com Dev | [Link](https://developer.tokopedia.com/openapi/guide/) | `Active` | API for integrate your system into Tokopedia | `apiKey` |
+| Lazada | Lazada Dev | [Link](https://open.lazada.com/doc/doc.htm) | `Aktif` | Lazada official API to integrate Product, Order, Finance, Logistic, Seller, and System from Lazada on your app. | `apiKey` |
+| Shopee | Shopee Dev | [Link](https://open.shopee.com/documents) | `Aktif` | Shopee official API to integrate many services from Shopee. | `apiKey` |
+
+### Entertainment
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Film Indonesia | themoviedb | [Link](https://www.themoviedb.org/documentation/api) | `Active` | List of Indonesian films with a record of API configuration set to Indonesia | `apiKey` |
+
+### Financial
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Doku | Doku | [Link](https://www.doku.com/API/index.html) | `Active` | DOKU Payment API to integrate with your system. | `apiKey` |
+| ESPAY | ESPAY | [Link](https://sandbox-kit.espay.id/docs/v2/docespay/en/index.php) | `Active` | Payment Gateway Indonesia | `apiKey` |
+| iPaymu | iPaymu | [Link](https://ipaymu.com/dokumentasi-api/) | `Active` | Payment Gateway | `apiKey` |
+| Midtrans - Payment gateway | Midtrans | [Link](https://midtrans.com/payments) | `Active` | Payment Gateway | `apiKey` |
+| OVO Unofficial | lintangtimur | [Link](https://github.com/lintangtimur/ovoid) | `Active` | Un-Official ovo.id API Wrapper built with PHP | `OTP` |
+| OJK Investasi API | Cristopher | [Link](https://ojk-invest-api.vercel.app/) | `Active` | An API that provides list of legal and ilegal investment products in Indonesia. Taken directly from OJK | No |
+
+### Forum
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Kaskus API | Kaskus Dev | [Link](https://github.com/kaskus/kaskus-php-sdk/wiki) | `Active` | API for access Kaskus | `OAuth` |
+
+### Government
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Batik Indonesia | BatiKita | [Link](https://batikita.docs.apiary.io/#reference/0/all-batik-collections) | `Active` | BatiKita is an application that can provide information about Batik. | No |
+| Indonesian Cultural heritage | Kantor Staf Presiden | [Link](https://data.go.id/dataset/cagar-budaya) | `Active` | Indonesia's cultural heritage including building, structure, site, etc. | No |
+| Indonesia National Heroes | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/heroes) | `Active` | Information about Indonesia national heroes. See [docs](https://github.com/yogski/indonesia-public-static-api#api-pahlawan-nasional-indonesia-apiheroes) for more details. | No |
+
+### Health
+
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Data Covid-19 di Indonesia ter update | Pemerintah Indonesia | [Link](https://data.covid19.go.id/public/api/update.json) | `Active` | API to get the latest COVID-19 case statistics - Official from Indonesian Government | No |
+| Data Covid-19 di Indonesia per provinsi | Pemerintah Indonesia | [Link](https://data.covid19.go.id/public/api/prov.json) | `Active` | API to get the latest COVID-19 case statistics per province | No |
+| Data Covid-19 | Teguh Aprianto | [Link](https://kawalcorona.com/api/) | `Active` | API to monitor areas affected by the covid-19 | No |
 
 
+### Location
 
-<!-- GETTING STARTED -->
-## Getting Started
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Museum In Indonesia | Indonesia Goverment | [Link](http://jendela.data.kemdikbud.go.id/api/index.php/CcariMuseum/searchGET?nama=museum) | `Active` | List of Indonesian museum | No |
+| Nama Daerah Seluruh Indonesia | farizdotid | [Link](https://farizdotid.com/dokumentasi-api-daerah-indonesia/) | `Active` | Name List of Province, City, etc. in Indonesia | No |
+| Indonesia Volcanoes | Yogi Saputro | [Link](https://indonesia-public-static-api.vercel.app/api/volcanoes) | `Active` | List of volcanoes in Indonesia. See [docs](https://github.com/yogski/indonesia-public-static-api#api-gunung-berapi-indonesia-apivolcanoes) for more details. | No |
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+### Music
 
-### Prerequisites
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Deezer | Deezer Dev | [Link](https://developers.deezer.com/api) | `Active` | Katalog Deezer | `OAuth` |
+| MusixMatch | MusixMatch Dev | [Link](https://developer.musixmatch.com/) | `Active` | Search for song information and lyrics | `apiKey` |
+| SoundCloud | SoundCloud Dev | [Link](https://developers.soundcloud.com/) | `Active` | Upload dan share music | `apiKey` |
+| Spotify | Spotify Dev | [Link](https://developer.spotify.com/web-api/) | `Active` | Spotify Catalog | `OAuth` |
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### News
 
-### Installation
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Indonesia news API | News API | [Link](https://newsapi.org/s/indonesia-news-api) | `Active` | API to get news updates in Indonesia | `apiKey` |
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+### Prediction
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Perkiraan Keberangkatan Haji | iBachor | [Link](https://github.com/bachors/apiapi#perkiraan-keberangkatan-haji) | `Active` | Predicition to going Haji | No |
 
 
+### Social Media
 
-<!-- USAGE EXAMPLES -->
-## Usage
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Pinterest Search Image | Abdul Muttaqin | [Link](https://fdci.se/pinterest-search-image/) | `Non-Active` | Search images at Pinterest | No |
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Utility
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Screenshot API | statically.io | [Link](https://statically.io/) | `Active` | A free screenshot API to convert web to image or PDF. Supports desktop and mobile views. | No |
 
 
+## HOW TO ADD NEW API LIST
+### Category
 
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
+| API Name        | Developer | URL | Status  | Description | `Auth` |
+| --------------- |:---------:|:---:|:-------:|:----------|:------:|
+| Api Raz | Razkode | [Link](https://yourlink) | `Active` | Lorem Ipsum Dolor Sir Amet | No |
 
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Feel free to ask me in Email, message to [RazKode] with subject (LIST-API) (mailto:cs@raz.my.id). You can submit [issues](https://github.com/Razkode/LIST-API-RAZKODE-ID/issues) for any comment for this repository.
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Thank You For Contribution
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+## Template By
+https://github.com/farizdotid/DAFTAR-API-LOKAL-INDONESIA
 
+## License
 
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
